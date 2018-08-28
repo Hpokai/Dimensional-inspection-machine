@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="B1_Cap.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="minWidth1" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">6.24</Value>
+    </Setting>
+    <Setting Name="minWidth2" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">6.26</Value>
+    </Setting>
+    <Setting Name="minThin1" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1.42</Value>
+    </Setting>
+    <Setting Name="minThin2" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1.44</Value>
+    </Setting>
+    <Setting Name="minThin3" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1.46</Value>
+    </Setting>
+    <Setting Name="maxWidth1" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">6.26</Value>
+    </Setting>
+    <Setting Name="maxWidth2" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">6.28</Value>
+    </Setting>
+    <Setting Name="maxThin1" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1.44</Value>
+    </Setting>
+    <Setting Name="maxThin2" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1.46</Value>
+    </Setting>
+    <Setting Name="maxThin3" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1.48</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

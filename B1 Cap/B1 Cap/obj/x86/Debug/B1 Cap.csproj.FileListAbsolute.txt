@@ -1,0 +1,95 @@
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap\B1 Cap\obj\x86\Debug\B1_Cap.b1CapForm.resources
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap\B1 Cap\obj\x86\Debug\B1_Cap.Properties.Resources.resources
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap\B1 Cap\obj\x86\Debug\B1 Cap.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap\B1 Cap\bin\Debug\B1 Cap.exe.config
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap\B1 Cap\bin\Debug\B1 Cap.exe
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap\B1 Cap\bin\Debug\B1 Cap.pdb
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap\B1 Cap\obj\x86\Debug\B1 Cap.exe
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap\B1 Cap\obj\x86\Debug\B1 Cap.pdb
+C:\Software\B1 Cap\B1 Cap\bin\Debug\B1 Cap.exe.config
+C:\Software\B1 Cap\B1 Cap\obj\x86\Debug\B1 Cap.exe
+C:\Software\B1 Cap\B1 Cap\obj\x86\Debug\B1 Cap.pdb
+C:\Software\B1 Cap\B1 Cap\bin\Debug\B1 Cap.exe
+C:\Software\B1 Cap\B1 Cap\bin\Debug\B1 Cap.pdb
+C:\Software\B1 Cap\B1 Cap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Software\B1 Cap\B1 Cap\obj\x86\Debug\B1_Cap.b1CapForm.resources
+C:\Software\B1 Cap\B1 Cap\obj\x86\Debug\B1_Cap.Properties.Resources.resources
+C:\Software\B1 Cap\B1 Cap\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Software\B1 Cap\B1 Cap\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141112\B1 Cap\bin\Debug\B1 Cap.exe.config
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141112\B1 Cap\obj\x86\Debug\B1 Cap.exe
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141112\B1 Cap\obj\x86\Debug\B1 Cap.pdb
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141112\B1 Cap\bin\Debug\B1 Cap.exe
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141112\B1 Cap\bin\Debug\B1 Cap.pdb
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141112\B1 Cap\obj\x86\Debug\B1_Cap.b1CapForm.resources
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141112\B1 Cap\obj\x86\Debug\B1_Cap.Properties.Resources.resources
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141112\B1 Cap\obj\x86\Debug\B1 Cap.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141113\B1 Cap\bin\Debug\B1 Cap.exe.config
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141113\B1 Cap\obj\x86\Debug\B1 Cap.exe
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141113\B1 Cap\obj\x86\Debug\B1 Cap.pdb
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141113\B1 Cap\bin\Debug\B1 Cap.exe
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141113\B1 Cap\bin\Debug\B1 Cap.pdb
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141113\B1 Cap\obj\x86\Debug\B1_Cap.b1CapForm.resources
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141113\B1 Cap\obj\x86\Debug\B1_Cap.Properties.Resources.resources
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141113\B1 Cap\obj\x86\Debug\B1 Cap.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141113\B1 Cap\obj\x86\Debug\B1 Cap.csprojResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\B1 Cap_20141113_withPLC_auto_manual\B1 Cap_20141113_withPLC_auto_manual\B1 Cap\bin\Debug\B1 Cap.exe.config
+C:\Users\MyUser\Desktop\B1 Cap_20141113_withPLC_auto_manual\B1 Cap_20141113_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1 Cap.exe
+C:\Users\MyUser\Desktop\B1 Cap_20141113_withPLC_auto_manual\B1 Cap_20141113_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1 Cap.pdb
+C:\Users\MyUser\Desktop\B1 Cap_20141113_withPLC_auto_manual\B1 Cap_20141113_withPLC_auto_manual\B1 Cap\bin\Debug\B1 Cap.exe
+C:\Users\MyUser\Desktop\B1 Cap_20141113_withPLC_auto_manual\B1 Cap_20141113_withPLC_auto_manual\B1 Cap\bin\Debug\B1 Cap.pdb
+C:\Users\MyUser\Desktop\B1 Cap_20141113_withPLC_auto_manual\B1 Cap_20141113_withPLC_auto_manual\B1 Cap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\B1 Cap_20141113_withPLC_auto_manual\B1 Cap_20141113_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1_Cap.b1CapForm.resources
+C:\Users\MyUser\Desktop\B1 Cap_20141113_withPLC_auto_manual\B1 Cap_20141113_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1_Cap.Properties.Resources.resources
+C:\Users\MyUser\Desktop\B1 Cap_20141113_withPLC_auto_manual\B1 Cap_20141113_withPLC_auto_manual\B1 Cap\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\B1 Cap_20141113_withPLC_auto_manual\B1 Cap_20141113_withPLC_auto_manual\B1 Cap\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141121_withPLC_auto_manual\B1 Cap\bin\Debug\B1 Cap.exe.config
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141121_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1 Cap.exe
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141121_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1 Cap.pdb
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141120_withPLC_auto_manual\B1 Cap\bin\Debug\B1 Cap.exe.config
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141120_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1 Cap.exe
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141120_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1 Cap.pdb
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141120_withPLC_auto_manual\B1 Cap\bin\Debug\B1 Cap.exe
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141120_withPLC_auto_manual\B1 Cap\bin\Debug\B1 Cap.pdb
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141120_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1 Cap.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141120_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1_Cap.b1CapForm.resources
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141120_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1_Cap.Properties.Resources.resources
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141120_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1 Cap.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\bin\Debug\B1 Cap.exe.config
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1 Cap.exe
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1 Cap.pdb
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\bin\Debug\B1 Cap.exe
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\bin\Debug\B1 Cap.pdb
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1 Cap.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1_Cap.b1CapForm.resources
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1_Cap.Properties.Resources.resources
+D:\Jabil\00__Work\11-B1 Cap\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1 Cap.csproj.GenerateResource.Cache
+C:\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\bin\Debug\B1 Cap.exe.config
+C:\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1 Cap.exe
+C:\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1 Cap.pdb
+C:\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\bin\Debug\B1 Cap.exe
+C:\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\bin\Debug\B1 Cap.pdb
+C:\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1_Cap.b1CapForm.resources
+C:\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\obj\x86\Debug\B1_Cap.Properties.Resources.resources
+C:\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Software\B1 Cap_20141124_withPLC_auto_manual\B1 Cap\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Software\B1 Cap_20150112_BYD\B1 Cap\bin\Debug\B1 Cap.exe.config
+C:\Software\B1 Cap_20150112_BYD\B1 Cap\obj\x86\Debug\B1 Cap.exe
+C:\Software\B1 Cap_20150112_BYD\B1 Cap\obj\x86\Debug\B1 Cap.pdb
+C:\Software\B1 Cap_20150112_BYD\B1 Cap\bin\Debug\B1 Cap.exe
+C:\Software\B1 Cap_20150112_BYD\B1 Cap\bin\Debug\B1 Cap.pdb
+C:\Software\B1 Cap_20150112_BYD\B1 Cap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Software\B1 Cap_20150112_BYD\B1 Cap\obj\x86\Debug\B1_Cap.b1CapForm.resources
+C:\Software\B1 Cap_20150112_BYD\B1 Cap\obj\x86\Debug\B1_Cap.Properties.Resources.resources
+C:\Software\B1 Cap_20150112_BYD\B1 Cap\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Software\B1 Cap_20150112_BYD\B1 Cap\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Jabil\00__Work\_CHA\11-B1 Cap\Software\B1 Cap_20150324_ALL\B1 Cap\bin\Debug\B1 Cap.exe.config
+D:\Jabil\00__Work\_CHA\11-B1 Cap\Software\B1 Cap_20150324_ALL\B1 Cap\obj\x86\Debug\B1 Cap.exe
+D:\Jabil\00__Work\_CHA\11-B1 Cap\Software\B1 Cap_20150324_ALL\B1 Cap\obj\x86\Debug\B1 Cap.pdb
+D:\Jabil\00__Work\_CHA\11-B1 Cap\Software\B1 Cap_20150324_ALL\B1 Cap\bin\Debug\B1 Cap.exe
+D:\Jabil\00__Work\_CHA\11-B1 Cap\Software\B1 Cap_20150324_ALL\B1 Cap\bin\Debug\B1 Cap.pdb
+D:\Jabil\00__Work\_CHA\11-B1 Cap\Software\B1 Cap_20150324_ALL\B1 Cap\obj\x86\Debug\B1 Cap.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\_CHA\11-B1 Cap\Software\B1 Cap_20150324_ALL\B1 Cap\obj\x86\Debug\B1_Cap.b1CapForm.resources
+D:\Jabil\00__Work\_CHA\11-B1 Cap\Software\B1 Cap_20150324_ALL\B1 Cap\obj\x86\Debug\B1_Cap.Properties.Resources.resources
+D:\Jabil\00__Work\_CHA\11-B1 Cap\Software\B1 Cap_20150324_ALL\B1 Cap\obj\x86\Debug\B1 Cap.csproj.GenerateResource.Cache
